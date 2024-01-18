@@ -8,7 +8,7 @@ This HR Analytics Dashboard aims to provide a comprehensive business intelligenc
 ## Project Highlights :
 
 - **Data Model Creation:** Before report design, the data model is established, leveraging primary key (PK) and foreign key (FK) relationships.
-- Tables lacking relations are thoroughly investigated to identify suitable columns for creating links.
+   Tables lacking relations are thoroughly investigated to identify suitable columns for creating links.
 
 - **Department Report Page:**
   - Total Employees visualization.
