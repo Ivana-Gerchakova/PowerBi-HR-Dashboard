@@ -3,8 +3,8 @@
 PowerBi - HR Analytics Dashboard
 
 ## Project Overview :
-This Power BI project focuses on analyzing the sales and profit trends over a period of six years. 
-The primary objective is to provide insights into the relative performance of sales and profit metrics, enabling stakeholders to make informed business decisions.
+This HR Analytics Dashboard aims to provide a comprehensive business intelligence solution for human resources management. 
+The dashboard consists of four main report pages: Department, Actives, Separations, and Recruitment, each designed to offer insights into different aspects of the workforce.
 
 ## Project Highlights :
 - **Long-Term Analysis:** The project spans six years, allowing for a comprehensive assessment of sales and profit trends over an extended period.
