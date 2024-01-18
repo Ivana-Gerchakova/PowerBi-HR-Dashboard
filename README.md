@@ -13,14 +13,14 @@ The primary objective is to provide insights into the relative performance of sa
 
 ## Dashboard Preview :
 
-<img src="Images/Dashboard 1.png">
-<img src="Images/Dashboard 2.png">
-<img src="Images/Dashboard 3.png">
-<img src="Images/Dashboard 4.png">
-<img src="Images/Dashboard 5.png">
-<img src="Images/Dashboard 6.png">
-<img src="Images/Dashboard 7.png">
-<img src="Images/Dashboard 8.png">
-<img src="Images/Dashboard 9.png">
-<img src="Images/Dashboard 10.png">
-<img src="Images/Dashboard 11.png">
+<img src="Images/HR Dashboard-1.png">
+<img src="Images/HR Dashboard-2.png">
+<img src="Images/HR Dashboard-3.png">
+<img src="Images/HR Dashboard-4.png">
+<img src="Images/HR Dashboard-5.png">
+<img src="Images/HR Dashboard-6.png">
+<img src="Images/HR Dashboard-7.png">
+<img src="Images/HR Dashboard-8.png">
+<img src="Images/HR Dashboard-9.png">
+<img src="Images/HR Dashboard-10.png">
+<img src="Images/HR Dashboard-11.png">
