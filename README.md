@@ -7,9 +7,39 @@ This HR Analytics Dashboard aims to provide a comprehensive business intelligenc
 The dashboard consists of four main report pages: Department, Actives, Separations, and Recruitment, each designed to offer insights into different aspects of the workforce.
 
 ## Project Highlights :
-- **Long-Term Analysis:** The project spans six years, allowing for a comprehensive assessment of sales and profit trends over an extended period.
-- **Relative Period Comparison:** Emphasis is placed on comparing and contrasting sales and profit performance across different periods, enabling stakeholders to identify patterns and make data-driven decisions.
-- **Interactive Dashboard:** The dashboard is designed to be interactive, providing users with the flexibility to explore and drill down into specific time frames, regions, or product categories for a more detailed analysis.
+
+- **Data Model Creation:** Before report design, the data model is established, leveraging primary key (PK) and foreign key (FK) relationships.
+- Tables lacking relations are thoroughly investigated to identify suitable columns for creating links.
+
+- **Department Report Page:**
+  - Total Employees visualization.
+  - Actives and Separations breakdown.
+  - Turnover Ratio % calculation.
+  - Number of employees by gender.
+  - Trend analysis of actives and separations over time.
+  - Drilldowns for in-depth exploration of actives and separations by year, quarter&year, and month.
+  - Employees categorized by department and position, with drill-down capabilities.
+  - Employee count trend and forecast for 2 years.
+  - Filter options for department, year, and quarter&year.
+
+- **Actives Report Page:**
+  - Actives distribution by department, marital status, position, and sex.
+  - Actives Last Year comparison.
+  - Employee year-over-year variance % calculation.
+  - Trend analysis with drill-downs for year, quarter&year, and month&year.
+  - Filter options for year and quarter and year.
+
+- **Separations Report Page:**
+  - Separations are broken down by marital status, position, sex, and reason.
+  - Separations Last Year comparison.
+  - Separations year over year variance % calculation.
+  - Trend analysis with drill-downs for a year, quarter&year, and month&year.
+  - Filter options for year and quarter and year.
+
+- **Recruitment Report Page:**
+  - Average salary visualization by position.
+  - Top 5 recruitment sources for all employees, actives, and separations.
+  - Filter options for year and quarter and year.
 
 ## Dashboard Preview :
 
