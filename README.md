@@ -1,6 +1,6 @@
 # Project Title :
 
-PowerBi - HR Analytics Dashboard
+PowerBi - HR Analytics Dashboard.
 
 ## Project Overview :
 This HR Analytics Dashboard aims to provide a comprehensive business intelligence solution for human resources management. The dashboard consists of four main report pages: Department, Actives, Separations, and Recruitment, each designed to offer insights into different aspects of the workforce.
